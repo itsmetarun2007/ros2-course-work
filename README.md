@@ -4,7 +4,7 @@
 
 - ROS 2 Jazzy
 - Python
-- Ubuntu 24.04
+- Ubuntu 
 - Gazebo
 - RViz
 - URDF
